@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/blue"
+    android:background="#1B5320"
     tools:context=".MainActivity">
 
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/pokeList"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
