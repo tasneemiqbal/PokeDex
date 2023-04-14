@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/R0WcJ8v.gif' title='Video Demo' width='180' alt='Video Demo' />
+<img src='https://github.com/tasneemiqbal/PokeDex/blob/96e5654e8685b829d597962e05139a351cdc3be6/pokeProj7.gif' title='Video Demo' width='180' alt='Video Demo' />
 
 GIF created with **Kap**
 
