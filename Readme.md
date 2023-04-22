@@ -1,10 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 7 - CYOAPI Part 3: Beautified
-
-Submitted by: **Tasneem Iqbal**
-
-Time spent: **2** hours spent in total
+PokeDex
 
 ## Summary
 
@@ -27,11 +23,6 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [x] Update the night theme to use different versions of styles when in dark mode
-- [ ] Use different drawables when in dark mode
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -41,14 +32,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **Kap**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
